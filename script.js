@@ -1,6 +1,6 @@
 'use strict';
 
-const STORAGE_KEY = 'levelpath_state_v1';
+const STORAGE_KEY = 'leveling_up_state_v1';
 const RESET_PASSWORD = 'LewisHamilton_44';
 const BMI_TARGET = 22;
 const MAX_STAT = 99;
